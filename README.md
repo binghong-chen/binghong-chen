@@ -13,6 +13,6 @@
 - 🌱 Learning:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=plastic&logo=Next.js) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=plastic&logo=NestJS)
   ![Rust](https://img.shields.io/badge/-Rust-black?style=plastic&logo=rust)
-- ⚡️ hobby: I like to travel, watch books and workout
+- 🏃🏻 hobby: I like to travel, watch books and workout
 
 <!-- 图标连接https://simpleicons.org/?q=node -->
